@@ -1,0 +1,2 @@
+# Diagram
+Record self diagrams
